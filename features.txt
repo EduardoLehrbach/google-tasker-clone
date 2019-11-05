@@ -1,0 +1,8 @@
+    Uma lista de tarefas
+    Cada lista é uma página -> todas usam o mesmo layout
+    A tarefa é um componente que tem componentes filhos (sub-tarefas){
+        é possivel marcar a tarefa com um checked e ela vai pra aba de completed riscada (apenas o titulo principal){
+            aba de concluida so é criada no momento que a 1 tarefa for checked
+        }
+    }
+    
